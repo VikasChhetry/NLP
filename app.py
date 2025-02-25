@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
 load_dotenv(dotenv)
-
+import dotenv
 import streamlit as st
 import os
 import sqlite3
